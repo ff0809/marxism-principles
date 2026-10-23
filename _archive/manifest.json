@@ -1,0 +1,23 @@
+[
+  {
+    "path": "打印.docx",
+    "bytes": 9042210,
+    "storage": "git",
+    "sha256": "746b8cb0209a14a0142d8049c07819279d1282ef388dba5b1aafd6a9ca5a1cfd",
+    "mtime_ns": 1782415842883573500
+  },
+  {
+    "path": "马克思主义同民族主义的对比分析.docx",
+    "bytes": 36732,
+    "storage": "git",
+    "sha256": "2e18bb1727f3cb542472472eb64f3bcc4132e6477e3fbff7c2ef8a90262754b1",
+    "mtime_ns": 1779511510054678600
+  },
+  {
+    "path": "马原辨析题+材料题大全.doc",
+    "bytes": 569856,
+    "storage": "git",
+    "sha256": "a0bf7e642d2db2a2c613450bdb5f598a8349f57dd6a5dbb3fab7f3afe7163251",
+    "mtime_ns": 1782394470729000000
+  }
+]
